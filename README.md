@@ -1,6 +1,7 @@
   
 ### :large_blue_diamond: Rocket Q 
-Rocket Q, é um site para realizar perguntas anônimas e criar salas de uma forma simples e fácil. Foi desenvolvido na semana NLW com o apoio da Rocketseat e a educator Jakeliny Gracielly : }
+Rocket Q, é um site para realizar perguntas anônimas e criar salas de uma forma simples e fácil. Foi desenvolvido na semana NLW com o apoio da - [Rocketseat](https://rocketseat.com.br/).
+
 
 ---
 
@@ -19,7 +20,7 @@ Neste projeto utilizei as seguintes tecnologias
 
 ### :dart: Como rodar
 
-Para rodar este projeto, você irá precisar ter o [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
+Para rodar este projeto, você ira precisar ter o [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
 
 Na linha de comando execute:
 
