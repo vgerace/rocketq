@@ -19,7 +19,7 @@ Neste projeto utilizei as seguintes tecnologias
 
 ### :dart: Como rodar
 
-Para rodar este projeto, você ira precisar ter o [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
+Para rodar este projeto, você irá precisar ter o [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
 
 Na linha de comando execute:
 
