@@ -1,3 +1,5 @@
+
+require("dotenv/config")
 const express = require('express')
 const route = require('./route')
 const path = require('path')
@@ -14,4 +16,4 @@ server.use(express.urlencoded({extended: true}))
 
 server.use(route)
 
-server.listen(3000, () => console.log("RODANDO"))
+server.listen(process.env.PORT, () => console.log(`server started on port ${process.env.PORT}`))
