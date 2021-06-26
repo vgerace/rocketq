@@ -1,6 +1,6 @@
   
 ### :large_blue_diamond: Rocket Q 
-Rocket Q, é um site para realizar perguntas anônimas e criar salas de uma forma simples e fácil.
+Rocket Q, é um site para realizar perguntas anônimas e criar salas de uma forma simples e fácil. Foi desenvolvido na semana NLW com o apoio da Rocketseat e a educator Jakeliny Gracielly : }
 
 ---
 
