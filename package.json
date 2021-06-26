@@ -4,7 +4,8 @@
   "description": "Projeto desenvolvido para gerenciar perguntas anônimas de usuários direcionadas ao dono da página. Projeto desenolvido na semana NLW Rockeseat na missão discover",
   "main": "src/server.js",
   "scripts": {
-    "start": "nodemon .",
+    "dev": "nodemon .",
+    "start": "node src/server.js",
     "init-db": "node src/db/init.js"
   },
   "keywords": [],
